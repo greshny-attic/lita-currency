@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-currency'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ['Roman Greshny']
   spec.email         = ['greshny@gmail.com']
   spec.description   = %q{lita bot plugin for displaying currency}
@@ -21,5 +21,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rack-test'
   spec.add_development_dependency 'rspec', '>= 3.0.0'
-  spec.add_development_dependency 'geminabox'
 end
